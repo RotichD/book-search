@@ -1,6 +1,6 @@
 # Book Search 
 ## Description 
-    Allows users to search for books and save them.
+    Allows users to search for books and save them. Utilizes Google Books Search API
 ## Links
 https://gbooksearch-mod21.herokuapp.com
 ## Packages
